@@ -1,0 +1,33 @@
+# Format: EngineName,URL (with {username} placeholder)
+# Google
+Google (EN) Generic,https://www.google.com/search?q={username}
+Google (EN) InURL,https://www.google.com/search?q=inurl:{username}
+Google (EN) InText,https://www.google.com/search?q=intext:"{username}"
+# Bing
+Bing (EN) Generic,https://www.bing.com/search?q={username}
+Bing (EN) InURL,https://www.bing.com/search?q=inurl:{username}
+Bing (EN) InText,https://www.bing.com/search?q=intext:"{username}"
+# DuckDuckGo
+DuckDuckGo (EN) Generic,https://duckduckgo.com/?q={username}
+DuckDuckGo (EN) InURL,https://duckduckgo.com/?q=inurl:{username}
+DuckDuckGo (EN) InText,https://duckduckgo.com/?q=intext:"{username}"
+# Yahoo
+Yahoo (EN) Generic,https://search.yahoo.com/search?p={username}
+Yahoo (EN) InURL,https://search.yahoo.com/search?p=inurl:{username}
+Yahoo (EN) InText,https://search.yahoo.com/search?p=intext:"{username}"
+# Brave
+Brave (EN) Generic,https://search.brave.com/search?q={username}
+Brave (EN) InURL,https://search.brave.com/search?q=inurl:{username}
+Brave (EN) InText,https://search.brave.com/search?q=intext:"{username}"
+# Yandex
+Yandex (RU) Generic,https://yandex.com/search/?text={username}
+Yandex (RU) InURL,https://yandex.com/search/?text=inurl:{username}
+Yandex (RU) InText,https://yandex.com/search/?text=intext:"{username}"
+# Baidu
+Baidu (CH) Generic,https://www.baidu.com/s?wd={username}
+Baidu (CH) InURL,https://www.baidu.com/s?wd=inurl:{username}
+Baidu (CH) InText,https://www.baidu.com/s?wd=intext:"{username}"
+# Naver
+Naver (SK) Generic,https://search.naver.com/search.naver?query={username}
+Naver (SK) InURL,https://search.naver.com/search.naver?query=inurl:{username}
+Naver (SK) InText,https://search.naver.com/search.naver?query=intext:"{username}"
