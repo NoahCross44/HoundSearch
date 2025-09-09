@@ -3,7 +3,7 @@
 
 
 # Overview
-HoundSniffer is a username reconnaissance and OSINT (Open-Source Intelligence) toolkit that helps locate a given username across 800+ platforms and services. It leverages both a curated OSINT framework and customizable platforms/dorking queries to produce comprehensive HTML reports, making it easier to visualize and analyze results.
+HoundSniffer is a username reconnaissance and OSINT (Open-Source Intelligence) toolkit that helps locate a given username across unlimited platforms and services. It leverages customizable platforms and dorking queries to produce comprehensive HTML reports, making it easier to visualize and analyze results.
 
 # Types of searches
 * Platform Search: searches for usernames on platforms defined in platforms.txt.
@@ -33,8 +33,8 @@ e.x:
 
 # How To Run the script
 Run the tool by executing the following command:
-1. navigate to HoundSearch.py directory
-2. run 'python3 HoundSearch.py'
+1. navigate to HoundSniffer.py directory
+2. run 'python3 HoundSniffer.py'
 3. Follow the on-screen prompts
 
 # License
